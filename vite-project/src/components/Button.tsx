@@ -12,7 +12,7 @@ const Button = () => {
         <button type="button" className="btn btn-light">Light</button>
         <button type="button" className="btn btn-dark">Dark</button>
 
-        <button type="button" class="btn btn-link">Link</button>
+        <button type="button" className="btn btn-link">Link</button>
     </div>
   )
 }
