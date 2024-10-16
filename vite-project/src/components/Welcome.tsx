@@ -1,3 +1,3 @@
 function Welcome(props) {
-    return <h1>Hello wor, {props.name}</h1>;
+    return <h1>"Hello world" + {props.name}</h1>;
 }
